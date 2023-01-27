@@ -33,7 +33,7 @@ i Will be available in a few...💫
 ## 🌱 Learning and Development
 - Currently diving deeper into Flutter web and desktop.
 - I am also learning about GraphQL and deep into Firebase.
-- I enjoy reading articles from [Flutter Weekly](https://flutterweekly.net/) and [Flutter Community](https://fluttercommunity.dev/)
+- I enjoy reading articles from [Flutter Weekly](https://flutterweekly.net/) and [Flutter Community](https://flutter.dev/community)
 - My favorite book on Flutter is [Flutter in Action](https://www.manning.com/books/flutter-in-action)
 
 ## 📫 Contact Me 👇
